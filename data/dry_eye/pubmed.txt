@@ -1,0 +1,159 @@
+
+
+PUBMED ID: 41859115
+1. Front Immunol. 2026 Mar 4;17:1748373. doi: 10.3389/fimmu.2026.1748373. 
+eCollection 2026.
+
+Primary Sjögren's syndrome-associated immune thrombocytopenia: from pathogenesis 
+to treatment.
+
+Liu C(1), Zheng Z(1)(2), He T(2), Zhang G(3), Fu G(3).
+
+Author information:
+(1)Department of Rheumatology and Immunology, Central Hospital of Dalian 
+University of Technology, Dalian, China.
+(2)Graduate School, Dalian Medical University, Dalian, China.
+(3)Department of Rheumatology and Immunology, The Second Hospital of Longyan, 
+Longyan, China.
+
+Primary Sjögren's syndrome (pSS) is an autoimmune disorder characterized by 
+xerostomia and keratoconjunctivitis sicca, with approximately 10%-20% of 
+patients developing concurrent immune thrombocytopenia (ITP). Recent studies 
+suggest the pathogenesis of primary Sjögren's syndrome - associated immune 
+thrombocytopenia (pSS-ITP) may involve dysregulated TLR7 signaling, B-cell 
+hyperactivation, and autoantibody-mediated platelet destruction. Beyond 
+conventional therapies (e.g., glucocorticoids and intravenous immunoglobulin 
+[IVIG]), emerging treatments have garnered increasing attention, including 
+thrombopoietin receptor agonists (TPO-RAs), B-cell-targeted therapies, and mTOR 
+inhibitors. Predictive models incorporating bone marrow megakaryocyte counts and 
+autoantibody profiles may facilitate individualized treatment selection. Future 
+multicenter clinical studies are warranted to evaluate the long-term efficacy 
+and safety of novel agents and to explore biomarker-guided precision therapy. 
+This review systematically summarizes the pathophysiological mechanisms of pSS- 
+ITP, synthesizes current clinical treatment strategies, and highlights key 
+biomarkers with potential implications for therapeutic response, aiming to 
+provide a theoretical foundation and practical guidance for optimizing 
+individualized therapeutic regimens.
+
+Copyright © 2026 Liu, Zheng, He, Zhang and Fu.
+
+DOI: 10.3389/fimmu.2026.1748373
+PMCID: PMC12996179
+PMID: 41859115 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+PUBMED ID: 41847816
+1. Vestn Oftalmol. 2026;142(1):112-122. doi: 10.17116/oftalma2026142011112.
+
+[Dry eye disease in young and middle-aged adults].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Yanchenko SV(1), Hamroev BG(1), Malyshev AV(2)(3), Teshaev SJ(1), Kharibova 
+EA(1), Odilova GR(1), Davlatov SS(1), Bekmurodova OK(1).
+
+Author information:
+(1)Bukhara State Medical Institute named after Abu Ali ibn Sino, Bukhara, 
+Uzbekistan.
+(2)Maykop State Technological University, Maykop, Adygea.
+(3)Scientific Research Institution - S.V. Ochapovsky Regional Clinical Hospital 
+No. 1, Krasnodar, Russia.
+
+According to publications from 2016-2025, the prevalence of dry eye disease 
+(DED) based on the assessment of clinical signs and symptoms in young and 
+middle-aged adults may exceed 30.8-41.43%, while based on symptoms the 
+prevalence ranges from 41.5% to 55%, highlighting the need for further 
+evaluation and investigation. In these age groups, evaporative DED (DEWS II 
+criteria), corresponding to hypersecretory DED, is more commonly diagnosed. One 
+of its major risk factors is computer vision syndrome, which leads to increased 
+tear film evaporation due to reduced blink rate, an increased number of 
+incomplete blinks, and the development of meibomian gland dysfunction (MGD). 
+Other DED risk factors may include exogenous and systemic stimuli, as well as 
+changes of the ocular surface, including MGD. This article presents an analysis 
+of data on the epidemiology and clinical features of DED in young and 
+middle-aged adults, as well as potential therapeutic strategies, including 
+elimination of modifiable risk factors, differentiated tear replacement therapy, 
+anti-inflammatory treatment, and eyelid hygiene, including the use of 
+Blepharogel Ochischenie cleansing gel, Blepharolosion lotion, Blepharosalfetka 
+wipes, Blepharogel 1, Blepharogel 2, and Blepharogel Forte.
+
+Publisher: По данным публикаций 2016—2025 гг., распространенность синдрома 
+«сухого глаза» (ССГ) на основе оценки совокупности его признаков и симптомов у 
+лиц молодого и зрелого возраста может превышать 30,8—41,43%, а на основе 
+изолированного учета симптомов — 41,5—55%, что требует оценки и дальнейшего 
+изучения. У лиц этих возрастных групп чаще диагностируется испарительный ССГ 
+(критерии DEWS II), соответствующий гиперсекреторному ССГ, одним из главных 
+факторов риска которого является компьютерный зрительный синдром, приводящий к 
+повышенной эвапорации слезной пленки (СП) за счет снижения частоты миганий, 
+увеличения количества незавершенных миганий и развития дисфункции мейбомиевых 
+желез (ДМЖ). Другие факторы риска ССГ могут быть представлены экзогенными и 
+системными влияниями, а также изменениями глазной поверхности, включая ДМЖ. В 
+статье приводится анализ данных по эпидемиологии и клинике ССГ у лиц молодого и 
+зрелого возраста, а также возможной терапевтической тактике, включающей 
+устранение модифицируемых факторов риска, дифференцированное слезозамещение, 
+противовоспалительную терапию и гигиену век, в том числе на основе применения 
+изделий «Блефарогель очищение», «Блефаролосьон», «Блефаросалфетка», «Блефарогель 
+1», «Блефарогель 2», «Блефарогель Форте».
+
+DOI: 10.17116/oftalma2026142011112
+PMID: 41847816 [Indexed for MEDLINE]
+
+PUBMED ID: 41836391
+1. Front Immunol. 2026 Feb 27;17:1755419. doi: 10.3389/fimmu.2026.1755419. 
+eCollection 2026.
+
+Immunotherapy-induced sialadenitis: sjögren's syndrome or a new sialadenitis.
+
+Song S(#)(1)(2), Lao Z(#)(1)(2), Yu R(#)(1)(2), Yu S(1)(2), Li P(1)(2), Yan 
+Y(1)(2), Yang L(1)(2), Liao G(1)(2), Wang Y(1)(2), Zhang S(1)(2).
+
+Author information:
+(1)Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen 
+University, Guangzhou, Guangdong, China.
+(2)Guangdong Provincial Key Laboratory of Stomatology, Sun Yat-sen University, 
+Guangzhou, Guangdong, China.
+(#)Contributed equally
+
+OBJECTIVE: Although immune checkpoint inhibitors (ICIs) have improved survival 
+in head and neck squamous cell carcinoma (HNSCC), associated adverse events, 
+such as sialadenitis, remain poorly characterized. This study aimed to define 
+the clinicopathological features, establish the causal pathogenic mechanism, and 
+validate a therapeutic target for ICI-associated sialadenitis.
+METHODS: This study integrated three complementary approaches. First, a 
+prospective cohort of 25 HNSCC patients underwent functional assessment of 
+salivary and lacrimal glands before and after ICI therapy. Second, salivary 
+gland tissues from separate cohorts of ICI-treated (n=30) and untreated control 
+(n=30) patients were subjected to comprehensive analysis, including histology, 
+multi-platform immunophenotyping (immunohistochemistry, multiplex 
+immunofluorescence, flow cytometry), and cytokine quantification at both 
+transcript and protein levels. Finally, a preclinical mouse model was 
+established to confirm causality and validate the therapeutic efficacy of IL-17A 
+blockade.
+RESULTS: Following ICI treatment, patients showed significantly reduced salivary 
+and lacrimal secretion (P < 0.05). Histopathological analysis revealed extensive 
+lymphocytic infiltration, marked periductal fibrosis, and substantial loss of 
+acinar structures. The immune infiltrate was dominated by CD4+ T cells, 
+particularly the Th17 subset, with corresponding upregulation of IL-17A both at 
+transcriptional and protein levels. Crucially, we established a mouse model of 
+anti-PD-1-induced sialadenitis and demonstrated that therapeutic blockade of 
+IL-17A restores salivary function.
+CONCLUSION: This study establishes ICI-associated sialadenitis as a distinct 
+pathological entity characterized by CD4+T cell-driven inflammation mediated 
+through the Th17/IL-17 axis, which differs from Sjögren syndrome, predominantly 
+involving B cells and from IgG4 related sialadenitis. By demonstrating 
+therapeutic efficacy in a preclinical model, our findings provide the first 
+preclinical validation of the IL-17 axis as an actionable therapeutic target for 
+this condition.
+
+Copyright © 2026 Song, Lao, Yu, Yu, Li, Yan, Yang, Liao, Wang and Zhang.
+
+DOI: 10.3389/fimmu.2026.1755419
+PMCID: PMC12982336
+PMID: 41836391 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

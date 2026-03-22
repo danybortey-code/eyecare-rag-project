@@ -1,0 +1,165 @@
+
+
+PUBMED ID: 41862006
+1. Surv Ophthalmol. 2026 Mar 18:S0039-6257(26)00044-5. doi: 
+10.1016/j.survophthal.2026.03.013. Online ahead of print.
+
+Therapeutic potential of norrin/FZD4/β-catenin signaling in blood-retinal 
+barrier protection.
+
+Martyka A(1), Bolek B(2), Gospodarczyk N(3), Czuj W(2), Wylęgała A(3), Wylęgała 
+E(3).
+
+Author information:
+(1)Chair and Clinical Department of Ophthalmology, School of Medicine in Zabrze, 
+Medical University of Silesia in Katowice, District Railway Hospital, 40-760 
+Katowice, Poland. Electronic address: aniamartyka98@gmail.com.
+(2)Department of Ophthalmology, District Railway Hospital in Katowice, 40-760 
+Katowice, Poland.
+(3)Chair and Clinical Department of Ophthalmology, School of Medicine in Zabrze, 
+Medical University of Silesia in Katowice, District Railway Hospital, 40-760 
+Katowice, Poland; Department of Ophthalmology, District Railway Hospital in 
+Katowice, 40-760 Katowice, Poland.
+
+The therapeutic potential of the norrin protein, Frizzled-4 (FZD4) receptor, and 
+the β-catenin signaling pathway is gaining increasing importance in 
+ophthalmology due to their multifaceted effects on the function of the 
+blood-retinal barrier (BRB). Disruption of BRB integrity represents a key 
+mechanism underlying pathological vascular permeability and the progression of 
+diabetic retinopathy and age-related macular degeneration. There remains an 
+unmet need for the development of therapies specifically targeting the 
+protection and regeneration of the BRB, as current treatment strategies 
+primarily focus on symptom alleviation rather than addressing the underlying 
+mechanisms of barrier breakdown. Interest in norrin signaling within the 
+Wnt/β-catenin pathway arises from its crucial role in maintaining BRB integrity 
+through the activation of the Frizzled-4 (FZD4) receptor and LRP5/6 
+co-receptors, leading to the stabilization of endothelial junctional complexes 
+and the maintenance and restoration of retinal vascular barrier properties, 
+particularly following vascular endothelial growth factor (VEGF)-induced barrier 
+disruptionmodulation of this pthway may represent a novel therapeutic approach 
+aimed at protecting and regenerating the BRB in degenerative retinal diseases. 
+Weidentify current research directions regarding new therapeutic strategies for 
+ophthalmic diseases associated with BRB dysfunction, with particular emphasis on 
+the role of norrin protein, Frizzled-4 (FZD4) receptors, and β-catenin. A 
+comprehensive search was conducted in electronic databases (PubMed, Google 
+Scholar) using the following.
+
+Copyright © 2026 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.survophthal.2026.03.013
+PMID: 41862006
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+PUBMED ID: 41860622
+1. Int Ophthalmol. 2026 Mar 20;46(1):168. doi: 10.1007/s10792-026-04043-5.
+
+Clinical efficacy and safety of anti-VEGF biosimilars compared to reference 
+anti-VEGF agents for neovascular age-related macular degeneration: a systematic 
+review, meta-analysis, and meta-regression.
+
+Al-Shammari YM(1), AlDhafiri YM(2), Ahmad AK(3), Alkharraz BB(4), Al-Awadhi 
+MA(4), Alnabhan RM(4).
+
+Author information:
+(1)Department of Ophthalmology, Al-Bahar Ophthalmology Center, Ibn Sina 
+Hospital, Ministry of Health, Kuwait City, Kuwait. yousef.alnabahan@gmail.com.
+(2)Department of Ophthalmology, Jaber Al-Ahmad Hospital, Ministry of Health, 
+Kuwait city, Kuwait.
+(3)Department of Ophthalmology, Al-Bahar Ophthalmology Center, Ibn Sina 
+Hospital, Ministry of Health, Kuwait City, Kuwait.
+(4)College of Medicine, University of Alexandria, Alexandria, Egypt.
+
+BACKGROUND: Neovascular age-related macular degeneration (AMD) is a leading 
+cause of irreversible vision loss among the elderly. Current treatment options 
+include intravitreal anti-VEGF therapy with ranibizumab and aflibercept. These 
+medications are very effective but expensive. Biosimilars of these expensive 
+intravitreal medications have been proposed as less expensive treatment options. 
+However, their clinical equivalence and safety are of concern.
+PURPOSE: The purpose of this study was to assess the efficacy, safety, and 
+immunogenicity of biosimilars of ranibizumab and aflibercept, and their clinical 
+equivalence with their reference biologics, in the treatment of neovascular AMD.
+METHODS: We conducted a systematic review and meta-analysis of randomized 
+controlled trials (RCTs) comparing biosimilar anti-VEGF agents with reference 
+ranibizumab or aflibercept. A comprehensive search of PubMed, Scopus, and 
+Cochrane Library (inception-September 2025) was performed following PRISMA 
+guidelines. Outcomes included change in best-corrected visual acuity (BCVA) at 
+12 weeks and study endpoint, ≥ 15-letter responder rates, treatment-emergent 
+anti-drug antibodies (ADAs), and ocular/serious ocular adverse events. Risk of 
+bias was assessed using the Cochrane ROB-2 tool.
+RESULTS: Seventeen phase 3 RCTs including 6694 patients were analyzed. Pooled 
+results showed no clinically meaningful differences in BCVA improvement at 12 
+weeks (MD = - 0.42, p = 0.17) or at study endpoint (MD = - 0.32, p = 0.23) 
+between biosimilars and reference biologics. Responder rates (≥ 15-letter gain) 
+were comparable (RR = 1.06, p = 0.36), as were rates of treatment-emergent ADAs 
+(RR = 0.89, p = 0.40) and ocular adverse events (RR = 0.99, p = 0.86). The 
+subgroup analysis did not demonstrate significant results for biosimilars of 
+aflibercept compared with the reference aflibercept; however, biosimilars of 
+ranibizumab had slightly less BCVA improvement at the end point (RR 0.53, p 
+0.02). Heterogeneity was low to moderate, and no publication bias was noted.
+CONCLUSION: Our analysis has demonstrated that biosimilars of ranibizumab and 
+aflibercept have equivalent efficacy, safety, and immunogenicity profiles 
+compared with the reference biologics. Future studies should focus on long-term 
+outcomes, switching studies, and health economics to help determine the 
+long-term success of biosimilar therapy.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s10792-026-04043-5
+PMID: 41860622 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+PUBMED ID: 41858558
+1. J Biomed Opt. 2026 Mar;31(3):036006. doi: 10.1117/1.JBO.31.3.036006. Epub 2026
+ Mar 18.
+
+Development and validation of a high-resolution hyperspectral imaging system for 
+the retina.
+
+Tran MH(1)(2), Pruitt K(1)(2), Bryarly M(1)(2), Emordi I(1)(2), Ali A(1)(2), Ma 
+L(1)(2), Fei B(1)(2)(3).
+
+Author information:
+(1)University of Texas at Dallas, Department of Bioengineering, Richardson, 
+Texas, United States.
+(2)University of Texas at Dallas, Center for Imaging and Surgical Innovation, 
+Richardson, Texas, United States.
+(3)University of Texas Southwestern Medical Center, Department of Radiology, 
+Dallas, Texas, United States.
+
+SIGNIFICANCE: Early detection of Alzheimer's diseases, diabetic retinopathy, or 
+macular degeneration with advanced retinal imaging technologies can help improve 
+patient care and treatment outcome.
+AIM: We aim to create a high-resolution hyperspectral imaging (HSI) system for 
+the retina. Retinal vessel diameter and oxygenation rate will be extracted 
+simultaneously from HSI data.
+APPROACH: Our hyperspectral retinal imaging system consists of a snapshot 
+hyperspectral camera, a high-resolution RGB camera, a beamsplitter, and an 
+imaging endoscope. Multiple pansharpening algorithms, including deep learning 
+methods, were developed to generate high-resolution hyperspectral images that 
+were further used for the measurement of vessel size and oxygenation rate in 
+mice.
+RESULTS: The hyperspectral retinal imaging system was tested for its spatial 
+resolution and spectral fidelity in retina phantoms. In vivo imaging experiments 
+were performed in mice. The deep learning-based pansharpening algorithm achieved 
+a root mean square error (RMSE) of 2.15 ± 0.64 , a correlation coefficient (CC) 
+of 0.96 ± 0.05 , a spectral angle score of 0.06 ± 0.03 radians, and an error 
+relative global dimensionless synthesis (ERGAS) score of 2.37 ± 1.71 . Oxygen 
+saturation ( sO2 ) and lumen diameters of blood vessels were measured in the 
+retina. The average lumen diameter of the venules was 45.7 ± 13.6  μm , whereas 
+the average lumen diameter of the arterioles was 31.5 ± 8.7  μm . The average 
+arteriole sO2 was 98%, whereas the average venule sO2 was 58%.
+CONCLUSIONS: A high-resolution hyperspectral imaging system was developed and 
+validated for retina imaging and measurement of blood vessels and oxygen 
+saturation.
+
+© 2026 The Authors.
+
+DOI: 10.1117/1.JBO.31.3.036006
+PMCID: PMC12997856
+PMID: 41858558 [Indexed for MEDLINE]

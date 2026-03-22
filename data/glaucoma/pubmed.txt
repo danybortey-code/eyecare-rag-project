@@ -1,0 +1,171 @@
+
+
+PUBMED ID: 41864486
+1. Exp Eye Res. 2026 Mar 19:110979. doi: 10.1016/j.exer.2026.110979. Online ahead
+ of print.
+
+Peroxisomal dynamics in Degenerative retinopathies: implications of retinal 
+lipid metabolism and therapeutic potential.
+
+Sun S(1), Sun M(1), Feng Z(1), Wang X(1), Zhao B(1), Wang K(2), Wang Y(2), Zhang 
+J(2), Ding S(2), Zhang C(1), Song Z(3), Tao Y(4).
+
+Author information:
+(1)Department of Ophthalmology, Henan Eye Hospital, Henan Provincial People's 
+Hospital, People's Hospital of Zhengzhou University, Zhengzhou 450003, China; 
+The First Clinical School of Medicine, Zhengzhou University, Zhengzhou 450001, 
+China.
+(2)Department of Ophthalmology, Henan Eye Hospital, Henan Provincial People's 
+Hospital, People's Hospital of Zhengzhou University, Zhengzhou 450003, China.
+(3)Department of Ophthalmology, Henan Eye Hospital, Henan Provincial People's 
+Hospital, People's Hospital of Zhengzhou University, Zhengzhou 450003, China. 
+Electronic address: smeyes@zzu.edu.cn.
+(4)Department of Ophthalmology, Henan Eye Hospital, Henan Provincial People's 
+Hospital, People's Hospital of Zhengzhou University, Zhengzhou 450003, China. 
+Electronic address: panghtoyezz@zzu.edu.cn.
+
+Peroxisomes are a type of organelles essential for metabolic activities. They 
+are extensively distributed in retinal tissue and play a core role in 
+biomolecular synthesis, cellular metabolism, oxidative stress, and immune 
+defense. Patients suffering from peroxisomal disorders will exhibit a number of 
+ocular symptoms, including degenerative retinopathy, cataract, glaucoma, and 
+optic nerve abnormalities. Specifically, pathological stimuli such as oxidative 
+stress, aging-related metabolic decline, genetic mutations, and hyperglycemia 
+induce the decline of peroxisomal biogenesis, coupled with disrupted activity of 
+lipid metabolic enzymes, leading to aberrant peroxisomal function and 
+expression. This impairment further triggers lipid metabolic dysregulation and 
+heightened oxidative stress, which sequentially contribute to the development of 
+degenerative retinopathy. This review comprehensively delves into the functions 
+of peroxisomes in retinal lipid metabolism and reduction-oxidation balance. 
+These findings may help to uncover the exact mechanism through which peroxisomal 
+dysfunction initiates retinal pathologies. Furthermore, emerging therapeutic 
+strategies targeting peroxisomes are also introduced in this review. These 
+strategies can promote the transformation from symptomatic alleviation to 
+mechanistic intervention for organelle dysfunction in degenerative retinopathy. 
+Future studies should concentrate on clarifying the cell-type specific functions 
+of peroxisomes in retina, deciphering the complicated interplay between 
+peroxisomes and other organelles, thereby optimizing the efficiency of 
+peroxisome-targeted therapeutics.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.exer.2026.110979
+PMID: 41864486
+
+Conflict of interest statement: Declaration of Competing Interest ☒ The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+PUBMED ID: 41858985
+1. Clin Ophthalmol. 2026 Jan 8;20:568150. doi: 10.2147/OPTH.S568150. eCollection 
+2026.
+
+Ocular Surface Changes and Glaucoma: A Prospective Contralateral Study of 
+IOP-Reducing Eyedrops versus iStent Inject Surgery.
+
+Gundersen KG(1), Gundersen M(1)(2), Nilsen C(1)(2), Jensen PG(1)(2).
+
+Author information:
+(1)IFocus Øyeklinikk AS, Haugesund, Rogaland, Norway.
+(2)Department of Life Sciences and Health, Oslo Metropolitan University, Oslo, 
+Norway.
+
+PURPOSE: To compare ocular surface outcomes between interventional glaucoma 
+treatment with trabecular micro-bypass stent implantation and continued topical 
+intraocular pressure-lowering therapy.
+PATIENTS AND METHODS: A prospective, single-center, contralateral-eye study of 
+patients with bilateral, mild-to-moderate open-angle glaucoma undergoing 
+implantation of the iStent inject in the study eye, while the fellow eye 
+(control eye) continued topical medications. Just over half the eyes in both 
+groups underwent phacoemulsification. Ocular surface parameters were evaluated 
+using objective tests and validated symptom questionnaires at baseline and at 1, 
+3, and 6 months.
+RESULTS: Fifty-six eyes were included, 28 in each group. At 6 months, medication 
+use reduced significantly in study eyes (from 1.9±1.0 preoperatively to 0.4±0.6; 
+p<0.001), but not in control eyes (from 1.5±0.9 to 1.4±0.8; p=0.168). Study eyes 
+demonstrated significant improvements in keratograph bulbar redness score 
+(2.4±0.6 to 2.0±0.4; p=0.003), and Oxford ocular surface staining (OSS) score 
+(1.6±1.2 to 0.7±1.0; p<0.001) while control eyes did not; improvements in bulbar 
+redness and OSS scores were significantly greater in study eyes (p=0.005 and 
+p=0.045, respectively). Patient-reported symptoms improved significantly: OSDI 
+(Ocular Surface Disease Index) scores decreased from 18.4 ± 16.4 to 9.3 ± 8.9 
+(p=0.007) and SPEED (Standard Patient Evaluation of Eye Dryness) II scores 
+decreased from 8.0 ± 7.8 to 4.5 ± 4.1 (p=0.005).
+CONCLUSION: Interventional glaucoma treatment with trabecular micro-bypass stent 
+implantation significantly reduced medication burden, which was associated with 
+improved signs and symptoms of ocular surface disease at 6 months. Compared to 
+fellow eyes on topical therapy, stent-treated eyes showed better outcomes in 
+selected ocular surface parameters, supporting the benefits of an interventional 
+approach.
+
+© 2026 Gundersen et al.
+
+DOI: 10.2147/OPTH.S568150
+PMCID: PMC12998683
+PMID: 41858985
+
+Conflict of interest statement: The authors have no financial interests in the 
+materials and methods mentioned in this study. K.G.G is a consultant for 
+Glaukos. The study was funded by Glaukos Corp. The funder was not involved in 
+the study design, data collection, analysis and interpretation.
+
+PUBMED ID: 41858910
+1. Drug Des Devel Ther. 2026 Jan 12;20:557400. doi: 10.2147/DDDT.S557400. 
+eCollection 2026.
+
+Intravitreal Ranibizumab versus Vitreous Lavage for Postoperative Vitreous 
+Hemorrhage in Proliferative Diabetic Retinopathy: A Randomized Controlled Trial.
+
+Chi J(#)(1), Zhang X(#)(1), Nie Z(1), Pan Y(1), Li W(1), Hu B(2).
+
+Author information:
+(1)Tianjin Key Laboratory of Retinal Functions and Diseases, Tianjin Branch of 
+National Clinical Research Center for Ocular Disease, Eye Institute and School 
+of Optometry, Tianjin Medical University Eye Hospital, Tianjin, People's 
+Republic of China.
+(2)NHC Key Laboratory of Hormones and Development, Tianjin Key Laboratory of 
+Metabolic Diseases, Chu Hsien-I Memorial Hospital & Tianjin Institute of 
+Endocrinology, Tianjin Medical University, Tianjin, People's Republic of China.
+(#)Contributed equally
+
+BACKGROUND: Postoperative vitreous hemorrhage (POVH) after pars plana vitrectomy 
+(PPV) for proliferative diabetic retinopathy (PDR) is a common complication that 
+delays visual recovery. While vitreous lavage (VL) mechanically clears 
+hemorrhages, intravitreal ranibizumab (IVR) targets VEGF-mediated 
+neovascularization. We compared the efficacy and safety of IVR and VL for the 
+management of POVH.
+OBJECTIVE: To compare the visual outcomes, hemorrhage clearance efficiency, and 
+complications between IVR and VL over a 24-week follow-up period.
+METHODS: In this prospective randomized controlled trial, 26 patients with POVH 
+for PDR were allocated to the VL (n=12) or IVR (n=14) groups. Follow-up 
+evaluations at 1 day, 1 week, 2 weeks, and monthly for up to 6 months included 
+best-corrected visual acuity (BCVA) and complications. Novel metrics that 
+included Visual Acuity Recovery Rate (VARR), Time to 1.0 logMAR-Equivalent 
+Improvement (T1EI), and time to peak BCVA (Tpeak VA) quantified the recovery 
+dynamics.
+RESULTS: At 24 weeks, BCVA improvement was comparable between groups (VL: 0.30 
+LogMAR vs IVR: 0.22 LogMAR, p=0.47). VL achieved immediate BCVA gains in one day 
+(1.99 vs 0.91 LogMAR, p<0.01), whereas IVR demonstrated progressive improvement 
+after 2 weeks. VARR was higher in VL at 1 day (0.76 vs 0.25, p<0.001) and 
+2 weeks (0.84 vs 0.61, p=0.06) but converged by 24 weeks (p=0.86). The 
+complication rates (recurrent hemorrhage and neovascular glaucoma) were similar 
+(p>0.05).
+CONCLUSION: VL and IVR were both associated with improved visual outcomes in 
+patients with POVH throughout the 24-week follow-up period. The VL group 
+achieved immediate BCVA improvement, and IVR showed a progressive improvement 
+pattern. The VL group showed superior short-term efficiency. IVR showed a trend 
+towards sustained recovery over the 24-week study period. In our study, IVR 
+showed a trend of higher recovery efficiency within the follow-up timeframe. The 
+advert treatment outcomes after the two treatments did not significantly differ. 
+Thus, treatment selection should balance the urgency of visual rehabilitation 
+and patient-specific factors.
+
+© 2026 Chi et al.
+
+DOI: 10.2147/DDDT.S557400
+PMCID: PMC12998389
+PMID: 41858910 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.

@@ -1,0 +1,147 @@
+
+
+PUBMED ID: 41863673
+1. Int Ophthalmol. 2026 Mar 21;46(1):169. doi: 10.1007/s10792-026-04050-6.
+
+Candida pelliculosa cluster endophthalmitis: clinical profile and surgical 
+outcomes in twelve eyes.
+
+Kannan NB(1), Elamurugan V(1), Muthukrishnan V(2), Babu VJS(1), Ramasamy K(1).
+
+Author information:
+(1)Vitreous-Retina Services, Aravind Eye Hospital, Madurai, Tamil Nadu, India.
+(2)Vitreous-Retina Services, Aravind Eye Hospital, Madurai, Tamil Nadu, India. 
+vmkrish2308@gmail.com.
+
+PURPOSE: To describe the clinical features and surgical outcomes of Candida 
+pelliculosa cluster endophthalmitis following cataract surgery.
+METHODS: Twelve eyes of ten patients developed endophthalmitis after 
+uncomplicated phacoemulsification with intraocular lens (IOL) implantation 
+performed at a single hospital. All underwent core vitrectomy, IOL explantation, 
+and intravitreal injections of vancomycin, ceftazidime, and voriconazole. 
+Explanted IOL-bag complexes and vitreous samples were analyzed 
+microbiologically. Secondary scleral-fixated IOL (SFIOL) implantation was 
+performed after disease quiescence. Minimum follow-up was three months.
+RESULTS: The mean interval from cataract surgery to presentation was 28 days. 
+Presenting symptoms included pain, redness, and mild vision loss. Mean 
+presenting BCVA was 20/40 (0.3 LogMAR). All eyes showed mild congestion, keratic 
+precipitates, fluffy capsular plaques, IOL deposits, and vitritis; three had 
+corneal tunnel infiltrates and two had "string of pearls." Candida pelliculosa 
+was isolated from all explanted IOL-bag complexes, while vitreous cultures were 
+negative. All lenses were monofocal and from the same manufacturer. Mean 
+post-vitrectomy BCVA was 20/60 (0.48 LogMAR; p = 0.718). Five eyes developed 
+cystoid macular edema, one required sub-Tenon triamcinolone, and four developed 
+epiretinal membranes. After a mean of 5.2 months, seven eyes underwent SFIOL 
+implantation, achieving a final BCVA of 20/32 (p = 0.33).
+CONCLUSION: This first reported series of postoperative Candida pelliculosa 
+cluster endophthalmitis underscores its subtle presentation and delayed onset. 
+Early vitrectomy with IOL-bag explantation ensures infection control and 
+favorable visual recovery.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s10792-026-04050-6
+PMID: 41863673 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests.
+
+PUBMED ID: 41848930
+1. Int Ophthalmol. 2026 Mar 18;46(1):161. doi: 10.1007/s10792-026-04042-6.
+
+Incidences and outcomes of retinal re-detachment in vitrectomised eyes following 
+cataract extraction.
+
+Shah PA(1)(2), Shah N(3), Ahmed S(3), Casswell EJ(3)(4), Ionides A(3), Balal 
+S(3).
+
+Author information:
+(1)Moorfields Eye Hospital NHS Foundation Trust, London, UK. 
+parth.shah1@nhs.net.
+(2)Medical Retina Department, Moorfields Eye Hospital NHS Foundation Trust, 162 
+City Road, London, EC1V 2PD, UK. parth.shah1@nhs.net.
+(3)Moorfields Eye Hospital NHS Foundation Trust, London, UK.
+(4)Sussex Eye Hospital, University Hospitals Sussex NHS Foundation Trust, 
+Brighton, UK.
+
+PURPOSE: Pars plana vitrectomy (PPV) with gas tamponade is known to precipitate 
+cataract progression, particularly when performed for retinal detachment (RD). 
+While cataract surgical complications in previously vitrectomised eyes are 
+well-studied, limited literature exists on the rate of retinal re-detachment 
+following cataract extraction (CE) in eyes with prior PPV for RD.
+METHODS: A retrospective review was conducted on consecutive CE's at Moorfields 
+Eye Hospital NHS Foundation Trust between January 1, 2015, and March 15, 2022. 
+Included were patients with prior PPV for RD. Exclusion criteria included 
+multiple vitrectomies before CE, combined procedures with phacoemulsification, 
+and non-phacoemulsification CE's. Data on demographics, the interval from PPV to 
+CE, and subsequent retinal detachment were collected, with a minimum of one-year 
+follow-up post CE. Statistical analysis was performed using logistic regression.
+RESULTS: Out of 110,670 patients who had CE, 1,808 had prior RD repair. Within 
+this group, 44 patients (2.4%) experienced re-detachment following CE. This rate 
+was significantly higher than the 0.34% incidence of first RD after CE 
+(χ2 = 203.61, p < 0.01). The mean final logMAR BCVA for patients with RD repair 
+pre-CE was 0.15, compared to 0.5 for those who had RD repair post-CE. The mean 
+interval from CE to re-detachment was 573 days.
+CONCLUSION: This study highlights that the rate of re-detachment following CE is 
+still significant despite eyes having undergone previous vitrectomy and RD 
+repair. Final visual acuity was notably lower in those patients who had RD post 
+CE compared to those with RD repair before CE.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s10792-026-04042-6
+PMID: 41848930 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests.
+
+PUBMED ID: 41838230
+1. Int Ophthalmol. 2026 Mar 16;46(1):158. doi: 10.1007/s10792-026-04025-7.
+
+Comparison of functional outcomes between femtosecond laser-assisted cataract 
+surgery and phacoemulsification in post-radial keratotomy cataract.
+
+Parihar JKS(1), Sachdev MS(2), Dhar S(2), Sharma M(2), Parihar AKS(3).
+
+Author information:
+(1)Centre for Sight Eye Hospital, B5/24, Safdarjung Enclave, New Delhi, 110029, 
+India. jksparihar@gmail.com.
+(2)Centre for Sight Eye Hospital, B5/24, Safdarjung Enclave, New Delhi, 110029, 
+India.
+(3)Sadguru Netra Chikitsalaya, Chitrakoot, India.
+
+PURPOSE: To compare the functional outcomes between femtosecond laser-assisted 
+cataract surgery (FLACS) and phacoemulsification in post-radial keratotomy (RK) 
+cataract.
+SETTING: Postgraduate teaching institute in a corporate setting, based in 
+Northern India.
+DESIGN: Retrospective comparative observational study.
+METHODS: The study included 70 post-RK eyes that underwent cataract surgery by 
+FLACS in 38 eyes and by phacoemulsification in the remaining 32 eyes over the 
+past 5 years, with nuclear cataract grades II-IV. Preoperative astigmatism 
+ranged from ± 0.50 to 5.50 D in both groups and was managed with Toric IOL 
+implantation. Barrett True-K and SRK/T were used to calculate IOL power. 
+Follow-up ranged from 1 to 4 years.
+RESULTS: Incomplete Rhexis, Inadequate Nucleotomy, and wound dehiscence were 
+noted constraints in both groups. The mean postoperative uncorrected visual 
+acuity (LogMAR) was 0.23 ± 0.09 in the PHACO group (n = 32), 0.22 ± 0.06 in the 
+FLACS group (n = 38), and 0.22 ± 0.08 in the combined group, with a P value of 
+0.885. Residual astigmatism or spherical error ranged from plus or minus 0.75 to 
+3.25 dioptres. The FLACS group had a higher mean astigmatism correction (1D) 
+than the phacoemulsification group (0.25D), attributable to precision in 
+incision, rhexis, Nucleotomy, and rotational stability of the Toric IOL implant.
+CONCLUSIONS: The Barrett True-K formula provided better predictive accuracy for 
+the presumed IOL power than SRK/T in these cases. Both groups showed 
+statistically significant improvement after FLACS or phacoemulsification, with 
+slightly better outcomes after FLACS with laser energy modulation.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s10792-026-04025-7
+PMID: 41838230 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: All authors 
+declare that there are no Competing Interests while conducting the study or 
+preparing the manuscript. Ethical approval: The institution’s Ethics Committee 
+approved this retrospective observational study vide EC Ref. No:139/22. “This 
+study was performed in line with the principles of the Declaration of Helsinki.
