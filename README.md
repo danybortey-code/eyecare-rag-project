@@ -306,13 +306,6 @@ This project provided hands-on experience with:
 
 ---
 
-## Author
-
-**Daniel Bortey, OD**
-MS in Data Science Candidate, University of Connecticut
-
-* GitHub: [https://github.com/danybortey-code](https://github.com/danybortey-code)
-* Project Repository: [https://github.com/danybortey-code/eyecare-rag-project](https://github.com/danybortey-code/eyecare-rag-project)
 
 ---
 
