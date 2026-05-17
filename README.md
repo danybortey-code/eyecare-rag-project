@@ -38,10 +38,10 @@ EyeCareRAG is a Retrieval-Augmented Generation (RAG) system designed to answer e
 
 The system focuses on four major eye conditions:
 
-* Glaucoma
-* Cataract
-* Age-related macular degeneration (AMD)
-* Dry eye disease
+- Glaucoma
+- Cataract
+- Age-related macular degeneration (AMD)
+- Dry eye disease
 
 Instead of relying solely on a language model's internal knowledge, EyeCareRAG retrieves relevant text from curated medical documents and uses that context to generate grounded responses.
 
@@ -55,9 +55,9 @@ Patients frequently search online for information about eye diseases, but generi
 
 This project demonstrates how Retrieval-Augmented Generation can improve reliability by ensuring responses are grounded in trusted sources such as:
 
-* National Eye Institute (NEI)
-* MedlinePlus
-* PubMed abstracts
+- National Eye Institute (NEI)
+- MedlinePlus
+- PubMed abstracts
 
 ---
 
@@ -136,45 +136,45 @@ Retrieval accuracy is measured using a custom evaluation set.
 
 For each disease, the following source files are collected:
 
-* `nei.txt`
-* `medline.txt`
-* `pubmed.txt`
+- `nei.txt`
+- `medline.txt`
+- `pubmed.txt`
 
 ### Trusted Medical Sources
 
-* National Eye Institute (NEI)
-* MedlinePlus
-* PubMed
+- National Eye Institute (NEI)
+- MedlinePlus
+- PubMed
 
 ---
 
 ## Key Features
 
-* Retrieval-Augmented Generation (RAG)
-* Curated eye disease medical corpus
-* Trusted medical knowledge base
-* ChromaDB vector search
-* Local LLM inference using Ollama (`llama3.2`)
-* Grounded educational responses
-* Custom evaluation framework
-* Modular code architecture
-* No OpenAI API key required for local answer generation
-* Professional GitHub documentation
+- Retrieval-Augmented Generation (RAG)
+- Curated eye disease medical corpus
+- Trusted medical knowledge base
+- ChromaDB vector search
+- Local LLM inference using Ollama (`llama3.2`)
+- Grounded educational responses
+- Custom evaluation framework
+- Modular code architecture
+- No OpenAI API key required for local answer generation
+- Professional GitHub documentation
 
 ---
 
 ## Tech Stack
 
-| Component       | Technology                        |
-| --------------- | --------------------------------- |
-| Language Model  | Ollama (`llama3.2`)               |
-| Embeddings      | Embedding-based similarity search |
-| Vector Database | ChromaDB                          |
-| Data Collection | Requests + BeautifulSoup          |
-| Evaluation      | Custom retrieval accuracy         |
-| Language        | Python                            |
-| IDE             | VS Code                           |
-| Version Control | Git & GitHub                      |
+| Component | Technology |
+|----------|----------|
+| Language Model | Ollama (`llama3.2`) |
+| Vector Database | ChromaDB |
+| Retrieval Method | Embedding-based similarity search |
+| Data Collection | Requests + BeautifulSoup |
+| Evaluation | Custom retrieval accuracy |
+| Language | Python |
+| IDE | VS Code |
+| Version Control | Git & GitHub |
 
 ---
 
@@ -207,14 +207,14 @@ eyecare-rag-project/
 
 ## Module Overview
 
-| Module            | Purpose                                    |
-| ----------------- | ------------------------------------------ |
-| `data_loader.py`  | Loads disease-specific text files          |
-| `chunker.py`      | Splits documents into overlapping chunks   |
-| `vector_store.py` | Handles ChromaDB vector storage            |
-| `retriever.py`    | Retrieves relevant chunks for a user query |
-| `generator.py`    | Generates grounded answers using Ollama    |
-| `evaluator.py`    | Evaluates retrieval accuracy               |
+| Module | Purpose |
+|------|------|
+| `data_loader.py` | Loads disease-specific text files |
+| `chunker.py` | Splits documents into overlapping chunks |
+| `vector_store.py` | Handles ChromaDB vector storage |
+| `retriever.py` | Retrieves relevant chunks for a user query |
+| `generator.py` | Generates grounded answers using Ollama |
+| `evaluator.py` | Evaluates retrieval accuracy |
 
 ---
 
@@ -237,17 +237,17 @@ This metric was chosen because retrieval is the most critical component of a RAG
 
 ## Example Questions
 
-* What are the early symptoms of glaucoma?
-* How is cataract treated?
-* What causes dry eye?
-* What is age-related macular degeneration?
+- What are the early symptoms of glaucoma?
+- How is cataract treated?
+- What causes dry eye?
+- What is age-related macular degeneration?
 
 ---
 
 ## Results
 
-| Metric             |    Value |
-| ------------------ | -------: |
+| Metric | Value |
+|------|------:|
 | Retrieval Accuracy | **1.00** |
 
 The system successfully retrieved the correct disease context for all evaluation questions.
@@ -310,16 +310,27 @@ The current `main.py` demonstrates the modular pipeline by loading documents, cr
 
 ---
 
+## Limitations
+
+- Limited to four eye diseases
+- Small evaluation dataset
+- Intended for educational use only
+- Requires Ollama to be installed locally
+- No graphical user interface in the current version
+- Retrieval accuracy was tested on a small custom evaluation set
+
+---
+
 ## Future Work
 
-* Streamlit web application
-* Additional eye diseases
-* Larger and more diverse evaluation dataset
-* Source citations in final responses
-* Fully local embeddings
-* Multimodal support for OCT, visual fields, and PDFs
-* Clinical-grade security and authentication
-* Advanced evaluation metrics such as faithfulness and hallucination scoring
+- Streamlit web application
+- Additional eye diseases
+- Larger and more diverse evaluation dataset
+- Source citations in final responses
+- Fully local embeddings
+- Multimodal support for OCT, visual fields, and PDFs
+- Clinical-grade security and authentication
+- Advanced evaluation metrics such as faithfulness and hallucination scoring
 
 ---
 
@@ -327,18 +338,24 @@ The current `main.py` demonstrates the modular pipeline by loading documents, cr
 
 This project provided hands-on experience with:
 
-* Retrieval-Augmented Generation (RAG)
-* Local LLM deployment with Ollama
-* ChromaDB vector databases
-* Medical data curation
-* Evaluation methodology
-* Modular software design
-* Git and GitHub workflows
-* Building healthcare-focused AI systems safely
+- Retrieval-Augmented Generation (RAG)
+- Local LLM deployment with Ollama
+- ChromaDB vector databases
+- Medical data curation
+- Evaluation methodology
+- Modular software design
+- Git and GitHub workflows
+- Building healthcare-focused AI systems safely
 
+---
 
-* GitHub: [https://github.com/danybortey-code](https://github.com/danybortey-code)
-* Project Repository: [https://github.com/danybortey-code/eyecare-rag-project](https://github.com/danybortey-code/eyecare-rag-project)
+## Author
+
+**Daniel Bortey, OD**  
+MS in Data Science Candidate, University of Connecticut
+
+- GitHub: https://github.com/danybortey-code
+- Project Repository: https://github.com/danybortey-code/eyecare-rag-project
 
 ---
 
