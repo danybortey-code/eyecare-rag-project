@@ -1,6 +1,9 @@
-def generate_answer(client, question, retrieved_results):
+import subprocess
+
+
+def generate_answer(question, retrieved_results):
     """
-    Generate a grounded answer using retrieved context.
+    Generate a grounded answer using Ollama (llama3.2).
     """
     retrieved_context = "\n\n".join(retrieved_results["documents"][0])
 
@@ -15,17 +18,17 @@ Context:
 {retrieved_context}
 
 Instructions:
-- Give a clear and short answer
-- Use only the provided context
-- If the answer is not in the context, say so
-- Do not provide a diagnosis
+- Give a clear and concise answer.
+- Use only the provided context.
+- If the answer is not in the context, say so.
+- Do not provide a diagnosis.
 """
 
-    response = client.chat.completions.create(
-        model="gpt-4.1-mini",
-        messages=[
-            {"role": "user", "content": prompt}
-        ]
+    result = subprocess.run(
+        ["ollama", "run", "llama3.2", prompt],
+        capture_output=True,
+        text=True,
+        encoding="utf-8"
     )
 
-    return response.choices[0].message.content
+    return result.stdout.strip()
